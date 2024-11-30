@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/dialog_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Okno dialogowe 1"/>
+
+    <Button
+        android:id="@+id/dialog_button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Okno dialogowe 2"/>
+
+    <Button
+        android:id="@+id/dialog_button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Okno dialogowe 3"/>
+
+    <Button
+        android:id="@+id/dialog_button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Okno dialogowe 4"/>
+
+    <Button
+        android:id="@+id/dialog_button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Okno dialogowe 5"/>
+
+    <Button
+        android:id="@+id/dialog_button6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Okno dialogowe 6"/>
+
+
+
+</LinearLayout>
